@@ -1,5 +1,7 @@
 # ML Ops
 
+See notebook arima_forecast.ipynb
+
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 
 1. Gather Data
